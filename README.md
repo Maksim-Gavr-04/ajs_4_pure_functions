@@ -1,0 +1,1 @@
+# ajs_4_pure_functions
