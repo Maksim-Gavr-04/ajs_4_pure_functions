@@ -9,8 +9,16 @@
     "lint": "eslint .",
     "test": "jest --coverage"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maksim-Gavr-04/ajs_4_pure_functions.git"
+  },
   "author": "Maksim-Gavr-04",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maksim-Gavr-04/ajs_4_pure_functions/issues"
+  },
+  "homepage": "https://github.com/Maksim-Gavr-04/ajs_4_pure_functions#readme",
   "devDependencies": {
     "@babel/cli": "^7.25.6",
     "@babel/core": "^7.25.2",
