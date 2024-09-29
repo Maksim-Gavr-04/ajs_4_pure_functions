@@ -10,7 +10,7 @@ test.each([
   [95, "healthy"],
   [45, "wounded"],
   [5, "critical"],
-  [0, ,]
+  [0, undefined],
 ])("Testing `showHealthStatus` function with a health level %d", (health, expected) => {
   const result = showHealthStatus({ name: "Лучник", health });
   expect(result).toBe(expected);
